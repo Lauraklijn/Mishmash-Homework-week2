@@ -96,3 +96,7 @@ Make an HTML page that fetches starwars data from an api and displays it:
 4. Display it on the page
 5. Make a button with the text `DARTH VADER` on it
 6. When you click the button it fetches data from `https://swapi.co/api/people/4/` and displays it on the page
+
+------------------------- Note from Laura
+
+I got a lot of errors running NPM (code Elifcycle etc), therefor I could not track the score. I think that I did the import/exporting part right, as far as I could see, had it nothing to do with that.
