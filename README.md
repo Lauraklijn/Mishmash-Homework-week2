@@ -4,27 +4,6 @@ This assignment covers the first week of the Intermediate Bootcamp. This reposit
 
 First run `npm install` to install the dependencies. Run the tests with the command `npm test`. Read the instructions in this document to know what is expected of you. The tests are meant to _help_ and _guide_ you. Passing tests do **NOT** automatically mean a successful implementation. **Again, tests do not equal score!** You can read the tests to see exactly what it's expecting, especially if you're getting errors. However, do **not** change the tests.
 
-**Make sure to hand in the project the way you received it!** The tests should still work and be runnable with the `npm test` command after you hand in your homework.
-
-You can also run the tests for each assignment individually by executing `npm test1`, `npm test2`.
-
-If you want to play around with your code yourself (not using the provided tests), here's a tip. Instead of adding test code to your solution files, create a new `.js` file and run it with `node`.
-
-_Note: we'll use the results of this homework assignment for a formal evaluation and as such you should write the code individually. **Plagiarism is a violation of the Academy contract and is not in your best interest. Do not discuss the contents of the assignment with your fellow students.**_
-
-## How to submit your results
-
-**Send your homework to teachers@codaisseur.com before Saturday 22:00**
-
-Clean up your code:
-
-- Fix the formatting/indentation
-- Remove unnecessary code.
-
-The app should be runnable simply by cloning the repository, installing dependencies, and running `npm test`.
-
-## Instructions
-
 ### Assignment 1: ShoppingCart
 
 1. You must create a module named `ShoppingCart`. The module must export a `class`! In other words your `module.exports` is not an object, a string, or anything else, but only a class.
@@ -97,6 +76,4 @@ Make an HTML page that fetches starwars data from an api and displays it:
 5. Make a button with the text `DARTH VADER` on it
 6. When you click the button it fetches data from `https://swapi.co/api/people/4/` and displays it on the page
 
-------------------------- Note from Laura
 
-I got a lot of errors running NPM (code Elifcycle etc), therefor I could not track the score. I think that I did the import/exporting part right, as far as I could see, had it nothing to do with that.
